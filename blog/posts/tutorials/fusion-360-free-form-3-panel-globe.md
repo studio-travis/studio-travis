@@ -9,6 +9,8 @@ readingTime: 9 Minutes
 type: post
 
 ---
-We will model Free Form blown corners. 
+We will model Free Form blown corners.
 
 Using Fusion 360.
+
+[https://youtu.be/G5jBz2OvqpA](https://youtu.be/G5jBz2OvqpA "https://youtu.be/G5jBz2OvqpA")
