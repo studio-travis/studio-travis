@@ -15,4 +15,4 @@ type: post
 
 I model Free Form use Rhino and Fusion 360. 
 
-Attached file: [https://onedrive.live.com/?cid=8f2036a4bdc81ce0&id=8F2036A4BDC81CE0%2165038&authkey=](https://onedrive.live.com/?cid=8f2036a4bdc81ce0&id=8F2036A4BDC81CE0%2165038&authkey= "Click to download")[!AKTuEF3vajjc3is](https://onedrive.live.com/?cid=8f2036a4bdc81ce0&id=8F2036A4BDC81CE0%2165038&authkey=!AKTuEF3vajjc3is)
+[Attached](https://onedrive.live.com/?authkey=%21AKTuEF3vajjc3is&cid=8F2036A4BDC81CE0&id=8F2036A4BDC81CE0%2165038&parId=8F2036A4BDC81CE0%2165036&o=OneUp) file: [https://onedrive.live.com/?cid=8f2036a4bdc81ce0&id=8F2036A4BDC81CE0%2165038&authkey=!AKTuEF3vajjc3is]()
