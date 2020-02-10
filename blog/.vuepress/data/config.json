@@ -15,16 +15,24 @@
                 "link": "/posts"
             },
             {
-                "text": "Futurama",
-                "link": "/category/futurama"
+                "text": "Portfolio",
+                "link": "/category/portfolios"
             },
             {
-                "text": "Dexter",
-                "link": "/category/dexter"
+                "text": "Idea",
+                "link": "/category/ideas"
+            },
+            {
+                "text": "Tutorial",
+                "link": "/category/tutorials"
             },
             {
                 "text": "About",
                 "link": "/about.html"
+            },
+            {
+                "text": "Contact",
+                "link": "/contact.html"
             }
         ],
         "footer": [
