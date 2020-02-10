@@ -1,6 +1,6 @@
 ---
 title: Fusion 360 Geometry 1 - an equilateral triangle in a circle
-image: "/images/Fusion_360_Geometry_1_ an_equilateral_triangle_in_a circle.jpg"
+image: "/images/Fusion_360_Geometry_1_ an_equilateral_triangle_in_a_circle.jpg"
 publish: 2020-02-09T17:00:00Z
 tags: []
 categories:
