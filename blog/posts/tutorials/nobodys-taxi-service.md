@@ -2,9 +2,7 @@
 title: Fusion 360 Free Form 1 - mosaic slab
 image: https://picsum.photos/1920/1080/?random&date=2018-11-15
 publish: 2020-02-09T17:00:00Z
-tags:
-- escaped fish
-- earthliens
+tags: []
 categories:
 - tutorials
 readingTime: 9 Minutes
