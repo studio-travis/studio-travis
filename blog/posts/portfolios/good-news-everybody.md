@@ -6,7 +6,7 @@ tags:
   - Shut up and take my money
   - Nixon
 categories:
-  - futurama
+  - portfolios
 readingTime: 5 Minutes
 type: post
 ---

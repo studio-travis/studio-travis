@@ -6,7 +6,7 @@ tags:
   - Shut up and take my money
   - Bender
 categories:
-  - futurama
+  - portfolios
 readingTime: 4 Minutes
 type: post
 ---

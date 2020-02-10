@@ -6,7 +6,7 @@ tags:
   - Metal Ass
   - Bender
 categories:
-  - futurama
+  - portfolios
 readingTime: 3 Minutes
 type: post
 ---

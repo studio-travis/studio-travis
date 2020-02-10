@@ -6,7 +6,7 @@ tags:
   - Leela
   - Breakfast Club
 categories:
-  - futurama
+  - portfolios
 readingTime: 4 Minutes
 type: post
 ---
