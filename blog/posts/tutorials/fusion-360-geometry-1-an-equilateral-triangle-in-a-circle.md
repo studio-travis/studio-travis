@@ -14,3 +14,5 @@ I will draw draw an equilateral triangle on a line.
 There are several ways to do.
 
 I will simulate geometry method
+
+[https://youtu.be/uOhIUHDvQX4](https://youtu.be/uOhIUHDvQX4 "https://youtu.be/uOhIUHDvQX4")
