@@ -2,7 +2,8 @@
 title: Fusion 360 Free Form 1 - mosaic slab
 image: "/images/Fusion 360 Free Form 1 v1.png"
 publish: 2020-02-09T17:00:00Z
-tags: []
+tags:
+- Free Form
 categories:
 - tutorials
 readingTime: 9 Minutes
