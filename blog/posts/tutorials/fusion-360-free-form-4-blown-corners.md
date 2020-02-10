@@ -9,6 +9,8 @@ readingTime: 9 Minutes
 type: post
 
 ---
-I will draw Kneeling pyramid in Fusion 360. 
+I will draw Kneeling pyramid in Fusion 360.
 
 Apply Pythagorean Theorem
+
+[https://youtu.be/B6FwVRP2848](https://youtu.be/B6FwVRP2848 "https://youtu.be/B6FwVRP2848")
