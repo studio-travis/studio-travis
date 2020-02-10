@@ -16,3 +16,4 @@ fields:
     required: true
 pages:
 - blog/about.md
+- blog/contact.md
