@@ -1,6 +1,6 @@
 ---
-title: Fusion 360 Geometry 2 - an equilateral triangle on a line
-image: "/images/Fusion_360_Geometry_2_an_equilateral_triangle_on_a_line.png"
+title: Fusion 360 Geometry 3 - the Vesica Piscis
+image: "/images/Fusion_360_Geometry_3_the_Vesica_Piscis.png"
 publish: 2020-02-09T17:00:00Z
 tags: []
 categories:
@@ -9,8 +9,8 @@ readingTime: 9 Minutes
 type: post
 
 ---
-I will draw draw an equilateral triangle on a line.
+I will draw  the Vesica Piscis geometry.
 
 There are several ways to do.
 
-I will simulate geometry method
+I will simulate geometry method.
