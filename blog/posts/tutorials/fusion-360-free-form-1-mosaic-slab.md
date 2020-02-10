@@ -12,4 +12,6 @@ type: post
 ---
 I model Free Form use Rhino and Fusion 360.
 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/FflNvdUfG0o](https://www.youtube.com/embed/FflNvdUfG0o "https://www.youtube.com/embed/FflNvdUfG0o")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Download file: [Click to download](https://onedrive.live.com/?authkey=%21AKTuEF3vajjc3is&cid=8F2036A4BDC81CE0&id=8F2036A4BDC81CE0%2165038&parId=8F2036A4BDC81CE0%2165036&o=OneUp)
