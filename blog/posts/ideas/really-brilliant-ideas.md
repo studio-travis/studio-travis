@@ -6,7 +6,7 @@ tags:
   - kill me
   - no violence
 categories:
-  - dexter
+  - ideas
 readingTime: 12 Minutes
 type: post
 ---
