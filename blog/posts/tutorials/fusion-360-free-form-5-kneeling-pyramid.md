@@ -1,6 +1,6 @@
 ---
-title: Fusion 360 Free Form 5 - Kneeling pyramid
-image: "/images/Fusion 360 Free Form 5 - Kneeling pyramid v6.png"
+title: Fusion 360 Geometry 1 - an equilateral triangle in a circle
+image: "/images/Fusion_360_Geometry_1_ an_equilateral_triangle_in_a circle.jpg"
 publish: 2020-02-09T17:00:00Z
 tags: []
 categories:
@@ -9,6 +9,8 @@ readingTime: 9 Minutes
 type: post
 
 ---
-I will draw Kneeling pyramid in Fusion 360. 
+I will draw Draw an equilateral triangle in a circle
 
-Apply Pythagorean Theorem
+There are several ways to do. 
+
+I will simulate geometry method
