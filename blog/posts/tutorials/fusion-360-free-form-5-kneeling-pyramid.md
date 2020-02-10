@@ -11,6 +11,8 @@ type: post
 ---
 I will draw Draw an equilateral triangle in a circle
 
-There are several ways to do. 
+There are several ways to do.
 
 I will simulate geometry method
+
+[https://youtu.be/FflNvdUfG0o](https://youtu.be/FflNvdUfG0o "https://youtu.be/FflNvdUfG0o")
