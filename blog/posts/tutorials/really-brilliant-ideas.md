@@ -9,6 +9,8 @@ readingTime: 12 Minutes
 type: post
 
 ---
-We will model Free Form in Fusion 360. 
+We will model Free Form in Fusion 360.
 
 Use feature: Loft, Sweep & Split Body
+
+[https://youtu.be/jSCGChZRV5s](https://youtu.be/jSCGChZRV5s "https://youtu.be/jSCGChZRV5s")
