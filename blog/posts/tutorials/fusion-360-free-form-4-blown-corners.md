@@ -1,6 +1,6 @@
 ---
 title: Fusion 360 Free Form 5 - Kneeling pyramid
-image: "/images/Fusion 360 Free Form 5 - Kneeling pyramid v6.png"
+image: "/images/Fusion_360_Free_Form_5_Kneeling_pyramid.png"
 publish: 2020-02-09T17:00:00Z
 tags: []
 categories:
