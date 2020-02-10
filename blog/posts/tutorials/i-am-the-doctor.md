@@ -9,6 +9,8 @@ readingTime: 9 Minutes
 type: post
 
 ---
-We will model Free Form use Fusion 360. There are several ways to model. 
+We will model Free Form use Fusion 360. There are several ways to model.
 
 I think Extrude + Cut is quick way. However I will use Pattern feature in this case.
+
+[https://youtu.be/pRMDm-u2Uig](https://youtu.be/pRMDm-u2Uig "https://youtu.be/pRMDm-u2Uig")
