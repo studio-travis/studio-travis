@@ -1,18 +1,12 @@
 ---
-title: Fusion 360 Geometry 5 - Draw a square in a circle - method 2
-image: "/images/Fusion_360_Geometry_5_Draw_a_square_in_a_circle_method_2.png"
-publish: 2020-02-09T17:00:00Z
-tags: []
+title: Fusion 360 Free Form 6 - split column
+image: "/images/Render_Fusion_360_Free_Form 6_split_column-1.PNG"
+publish: 2020-02-11T17:00:00Z
+tags:
+- tutorial
 categories:
 - tutorials
-readingTime: 9 Minutes
+readingTime: ''
 type: post
 
 ---
-I will draw a square in a circle.
-
-There are several ways to do.
-
-I will simulate geometry method.
-
-[https://youtu.be/-pSvlLoxd38](https://youtu.be/-pSvlLoxd38 "https://youtu.be/-pSvlLoxd38")
