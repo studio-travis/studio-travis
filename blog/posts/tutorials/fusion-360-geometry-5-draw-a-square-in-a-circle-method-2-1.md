@@ -10,3 +10,6 @@ readingTime: ''
 type: post
 
 ---
+I will use Fusion 360 to draw Free Form Split Column.
+
+[https://youtu.be/dvYlNkuh4bA](https://youtu.be/dvYlNkuh4bA "https://youtu.be/dvYlNkuh4bA")
