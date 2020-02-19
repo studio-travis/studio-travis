@@ -1,6 +1,6 @@
 ---
-title: Fusion 360 Replicate Geometry 8 A Pentagon within a vesica
-image: "/images/Fusion_360_Replicate_Geometry_8_A_Pentagon_within_a_vesica_v6.png"
+title: Fusion 360 Free-form 7 - stretched arch
+image: "/images/Fusion_360_Free_Form_7_-_stretched_arch_v10.png"
 publish: 2020-02-19T00:00:00+07:00
 tags:
 - Tutorial
@@ -10,10 +10,8 @@ readingTime: ''
 type: post
 
 ---
-Using Polygon tool is simple way to draw Pentagon in Fusion. However, I replicate method of geometry in this video. 
+I use Fusion 360 to draw this Free-form.
 
-Draw a pentagon within a vesica. EBFGA is a pentagon to an accuracy of 99.25%. (Construction by Paul Marchant)
+![](/images/Fusion_360_Free_Form_7_-_stretched_arch_v10.png)
 
-![](/images/Fusion_360_Replicate_Geometry_8_A_Pentagon_within_a_vesica_v6.png)
-
-[https://youtu.be/wXyGGcA5Rx0](https://youtu.be/wXyGGcA5Rx0 "https://youtu.be/wXyGGcA5Rx0")
+[https://youtu.be/oKQ3wYCIPok](https://youtu.be/oKQ3wYCIPok "https://youtu.be/oKQ3wYCIPok")
