@@ -1,6 +1,6 @@
 ---
-title: Fusion 360 Replicate Geometry 6 A Pentagon in a circle method 1
-image: "/images/Fusion_360_Geometry_6_-_draw_a_pentagon_in_a_circle_v2.png"
+title: Fusion 360 Replicate Geometry 7  A Pentagon in a circle -method 2
+image: "/images/Fusion_360_Replicate_Geometry_7_A_Pentagon_in_a_circle_method_2.png"
 publish: 2020-02-19T00:00:00+07:00
 tags:
 - Tutorial
@@ -10,8 +10,10 @@ readingTime: ''
 type: post
 
 ---
-I use Fusion 360 to draw a pentagon in a circle. There are several ways to do. I will replicate Method of Geometry.
+There's simple ways to draw pentagon in Fusion 360. 
 
-![](/images/Fusion_360_Geometry_6_-_draw_a_pentagon_in_a_circle_v2.png)
+In this video, I will replicate method of Geometry.
 
-[https://youtu.be/kAtDM2erOJM](https://youtu.be/kAtDM2erOJM "https://youtu.be/kAtDM2erOJM")
+![](/images/Fusion_360_Replicate_Geometry_7_A_Pentagon_in_a_circle_method_2.png)
+
+[https://youtu.be/eHLWLkqoAbI](https://youtu.be/eHLWLkqoAbI "https://youtu.be/eHLWLkqoAbI")
