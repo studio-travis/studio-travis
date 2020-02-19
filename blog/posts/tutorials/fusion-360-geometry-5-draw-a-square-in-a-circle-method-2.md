@@ -1,16 +1,15 @@
 ---
-title: Fusion 360 Geometry 5 - Draw a square in a circle - method 2
-image: "/images/Fusion_360_Geometry_5_-_Draw_a_square_in_a_circle_-_method_2_fix_2020-Feb-12_03-42-00PM-000_CustomizedView13315926252.png"
-publish: 2020-02-09T17:00:00Z
-tags: []
+title: Fusion 360 Replicate Geometry 6 A Pentagon in a circle method 1
+image: "/images/Fusion_360_Geometry_6_-_draw_a_pentagon_in_a_circle_v2.png"
+publish: 2020-02-19T00:00:00+07:00
+tags:
+- Tutorial
 categories:
 - tutorials
-readingTime: 9 Minutes
+readingTime: ''
 type: post
 
 ---
-I use Fusion 360 to draw a square in a circle. 
+I use Fusion 360 to draw a pentagon in a circle. There are several ways to do. I will replicate Method of Geometry.
 
-There are several ways to do. **I will simulate Method of Geometry.**
-
-[https://youtu.be/dKIrC4Q51Ug](https://youtu.be/dKIrC4Q51Ug "https://youtu.be/dKIrC4Q51Ug")
+[https://youtu.be/kAtDM2erOJM](https://youtu.be/kAtDM2erOJM "https://youtu.be/kAtDM2erOJM")
