@@ -18,8 +18,6 @@ Download file: [Click to download](https://onedrive.live.com/?authkey=%21AKTuEF3
 
 ***
 
-{{% youtube "maEeVa23HJw" %}}
-
 **# With Preview Thumbnail**
 
 1. Find video ID from **https://www.youtube.com/watch?v=**`maEeVa23HJw`
