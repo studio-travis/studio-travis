@@ -1,7 +1,7 @@
 ---
-title: Fusion 360 Replicate Geometry 8 A Pentagon within a vesica
-image: "/images/Fusion_360_Replicate_Geometry_8_A_Pentagon_within_a_vesica_v6.png"
-publish: 2020-02-18T17:00:00.000+00:00
+title: Fusion 360 Replicate Geometry 9  A Pentagon on a line
+image: "/images/Fusion_360_Replicate_Geometry_9__A_Pentagon_on_a_line_v3.png"
+publish: 2020-02-23T00:00:00+07:00
 tags:
 - Tutorial
 categories:
@@ -10,10 +10,6 @@ readingTime: ''
 type: post
 
 ---
-Using Polygon tool is simple way to draw Pentagon in Fusion. However, I replicate method of geometry in this video. 
+There's other way to construct a pentagon on a line instead of Polygon tool. I share it in this video.
 
-Draw a pentagon within a vesica. EBFGA is a pentagon to an accuracy of 99.25%. (Construction by Paul Marchant)
-
-![](/images/Fusion_360_Replicate_Geometry_8_A_Pentagon_within_a_vesica_v6.png)
-
-[https://youtu.be/wXyGGcA5Rx0](https://youtu.be/wXyGGcA5Rx0 "https://youtu.be/wXyGGcA5Rx0")
+[https://youtu.be/cHtY4KgMqbw](https://youtu.be/cHtY4KgMqbw "https://youtu.be/cHtY4KgMqbw")
